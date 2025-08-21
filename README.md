@@ -3,13 +3,21 @@
 - Fine-tune the model for specific detections 
 - Models for specific tasks for detected objects
 - Streamline integration corresponding to guidelines from the Norwegian government regarding reporting, etc
+- Move from streamlit to a local application - Local GPU or Cloud, while focusing on images, batching, local should be fine -> Moving to point clouds would require a cloud solution for processing.
+-  Calculating depth -~~~~~?
+-  As long as the object matching works, the point clouds get redundant. Hurr durr i have lots of data thats worth alot.
+- How to do Predictive maintenance work?
+  * Images , training data and further analysis on cracks.
+  * Images of areas continsoutly before something went wrong.
+
+
 
 
   Thoughts
   - Certain Vegetation, plants, etc, are considered harmful just by their looks. Identifying these automatically could be nice.
   - Georeferencing objects to the NVDB will be the main issue
-  - If the Norwegian government had ANY structure in this type of historical data(Security reports/ inspections  from roads), which they spend a lot of money standardizing, all of these projects could be done in no time.
-  - The constraints on data that is collected with government resources and could be utilized for the betterment of society should not be held onto by people with the reasoning that "this is worth a lot"—Stagnates development. 
+  - Images from reports could help create a solid dataset for training for anomalies, bad sight, bad rails, and other elements that are hard to find examples of. This could be solved by solving a data problem rather than complicated technical solutions. 
+
 
 A proof-of-concept system that processes georeferenced smartphone images to detect traffic signs, identify vegetation obscuration issues, and verify detected assets against the Norwegian National Road Database (NVDB).
 
