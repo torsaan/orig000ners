@@ -8,7 +8,8 @@
   Thoughts
   - Certain Vegetation, plants, etc, are considered harmful just by their looks. Identifying these automatically could be nice.
   - Georeferencing objects to the NVDB will be the main issue
-  - If the Norwegian government had ANY structure in this type of historical data(Security reports/ inspections  from roads), which they spend a lot of money standardizing this stuff, all of these projects could be done in no time. 
+  - If the Norwegian government had ANY structure in this type of historical data(Security reports/ inspections  from roads), which they spend a lot of money standardizing, all of these projects could be done in no time.
+  - The constraints on data that is collected with government resources and could be utilized for the betterment of society should not be held onto by people with the reasoning that "this is worth a lot"—Stagnates development. 
 
 A proof-of-concept system that processes georeferenced smartphone images to detect traffic signs, identify vegetation obscuration issues, and verify detected assets against the Norwegian National Road Database (NVDB).
 
