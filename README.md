@@ -1,4 +1,14 @@
-# Automated Roadside Asset Inspection Demo
+# Automated Roadside Asset Inspection Demo / WORK IN PROGRESS 
+
+- Fine-tune the model for specific detections 
+- Models for specific tasks for detected objects
+- Streamline integration corresponding to guidelines from the Norwegian government regarding reporting, etc
+
+
+  Thoughts
+  - Certain Vegetation, plants, etc, are considered harmful just by their looks. Identifying these automatically could be nice.
+  - Georeferencing objects to the NVDB will be the main issue
+  - If the Norwegian government had ANY structure in this type of historical data(Security reports/ inspections  from roads), which they spend a lot of money standardizing this stuff, all of these projects could be done in no time. 
 
 A proof-of-concept system that processes georeferenced smartphone images to detect traffic signs, identify vegetation obscuration issues, and verify detected assets against the Norwegian National Road Database (NVDB).
 
