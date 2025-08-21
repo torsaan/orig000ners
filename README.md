@@ -16,7 +16,9 @@
   Thoughts
   - Certain Vegetation, plants, etc, are considered harmful just by their looks. Identifying these automatically could be nice.
   - Georeferencing objects to the NVDB will be the main issue
-  - Images from reports could help create a solid dataset for training for anomalies, bad sight, bad rails, and other elements that are hard to find examples of. This could be solved by solving a data problem rather than complicated technical solutions. 
+  - Images from reports could help create a solid dataset for training for anomalies, bad sight, bad rails, and other elements that are hard to find examples of. This could be solved by solving a data problem rather than complicated technical solutions.
+ 
+    ## 21.08.2025 Need to get model working first. 
 
 
 A proof-of-concept system that processes georeferenced smartphone images to detect traffic signs, identify vegetation obscuration issues, and verify detected assets against the Norwegian National Road Database (NVDB).
