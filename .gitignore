@@ -1,0 +1,8 @@
+*.pt
+*.json
+*.jpg
+*.png
+*.log
+*.pyc
+*.db
+env/
